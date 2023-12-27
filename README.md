@@ -1,4 +1,4 @@
-# kickstarter_analysis_w
+# Crowd Funding Analysis:
 Analyze successful and failed Kickstarter campaigns
 
 Louise is launching a crowd funding campaign for her play "Fever". She has asked me to do an analysis of other crowd funding campaigns so that she can follow successful models and avoid mistakes. She is attempting to raise $10,000 Purpose
